@@ -8,10 +8,10 @@ académicos en múltiples formatos (Parte 1) y se extiende con
 configuración compleja y evaluación de Singleton (Parte 2).
 
 ## Cómo ejecutar
-```bash
+```powershell
 cd exportador-reportes
 mvn compile
-mvn exec:java "-Dexec.mainClass=com.patrones.u2.Main"
+mvn exec:java ``` "-Dexec.mainClass=com.patrones.u2.Main"
 
 ---
 
