@@ -11,7 +11,7 @@ configuración compleja y evaluación de Singleton (Parte 2).
 ```powershell
 cd exportador-reportes
 mvn compile
-mvn exec:java ``` "-Dexec.mainClass=com.patrones.u2.Main"
+mvn exec:java "-Dexec.mainClass=com.patrones.u2.Main"
 
 ---
 
